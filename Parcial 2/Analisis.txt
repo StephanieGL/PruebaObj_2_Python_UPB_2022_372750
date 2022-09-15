@@ -1,0 +1,25 @@
+
+
+
+
+
+ Stephanie Gonzalez Lopez  - 14/09/2022 - 23:42:56
+
+
+Datos obtenidos:
+
+
+-El tipo de armas con mayor cantidad de estas es SMG, cuenta con un total de 5 armas
+
+-El arma mas costosa del juego es Operator (4500 credits) y el arma menos costosa es la Classic (0 credits)
+
+-El arma con mayor cadencia de tiro en el juego es Stinger (20,00) y el arma con menos cadencia es Operator (0,75)
+
+-El tipo de arma con mayor cadencia de tiro son las SMG, con una cadencia de 16,665 
+
+Analisis final:
+
+
+En conclusion al analisis armamentistico del videojuego Valorant (Riot Games) es recomendable que los jugadores nuevos se acostumbren a entrar a una herramienta de practicacon el arma tipo SMG Spectre, dado a que es economica, precisa y con excelente cadencia letal. Asi pues, no todo es color de rosa ya que pierde presicion al disparar a distancias lejanas, por consiguiente su damage es menor.
+En vista de lo mencionado, para solventar estas falencias lo recomendable seria practicar con todas las armas para adaptarse a cualquier situacion de combate en diversas distancias, manejando correctamente la economia para hacer un mejor uso de ellas.
+
